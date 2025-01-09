@@ -18,4 +18,4 @@ def simplePredcition(data, end_point):
     plt.scatter(np.arange(len(data)), data)
     plt.show()
 
-simplePredcition(data, 8)
+simplePredcition(data, 12)
